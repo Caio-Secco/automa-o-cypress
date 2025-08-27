@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "name": "Tony Stark",
+      "email": "tony.stark@alura.com.br",
+      "password": "IronMan123"
+    },
+    {
+      "name": "Natasha Romanoff",
+      "email": "natasha.romanoff@alura.com.br",
+      "password": "BlackWidow123"
+    },
+    {
+      "name": "Steve Rogers",
+      "email": "steve.rogers@alura.com.br",
+      "password": "America123"
+    },
+    {
+      "name": "Bruce Banner",
+      "email": "bruce.banner@alura.com.br",
+      "password": "Hulk123"
+    },
+    {
+      "name": "Thor Odinson",
+      "email": "thor.odinson@alura.com.br",
+      "password": "Thunder123"
+    },
+    {
+      "name": "Wanda Maximoff",
+      "email": "wanda.maximoff@alura.com.br",
+      "password": "Scarlet123"
+    }
+  ]
+}
