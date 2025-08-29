@@ -1,0 +1,25 @@
+{
+"usuarios": [
+  {
+    "nome": "Lucas Almeida",
+    "email": "lucas.almeida@alura.com.br",
+    "celular": "48996625002",
+    "cep": "89215050",
+    "numero": "12"
+  },
+  {
+    "nome": "Mariana Costa",
+    "email": "mariana.costa@alura.com.br",
+    "celular": "48996625003",
+    "cep": "89215050",
+    "numero": "34"
+  },
+  {
+    "nome": "Rafael Souza",
+    "email": "rafael.souza@alura.com.br",
+    "celular": "48996625004",
+    "cep": "89215050",
+    "numero": "56"
+  }
+]
+}
