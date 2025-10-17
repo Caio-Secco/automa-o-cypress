@@ -4,7 +4,7 @@ const usuariosbru = data.usuarios
 describe('Página de cadastro', () => {
     beforeEach(() => {
         cy.visit('https://app.bruningsistemas.com.br/login')
-        cy.login('admin', 'maria', 'implantacao123')
+        cy.login('admin', 'maria', 'senha')
         cy.visit('https://app.bruningsistemas.com.br/clientes/gerenciar-clientes/pesquisa')
         cy.get('button.btn.btn-success')
             .should('exist').should('be.enabled').contains('Novo').click()
